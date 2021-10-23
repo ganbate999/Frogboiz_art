@@ -1,0 +1,45 @@
+{
+  "name": "Forgboiz Collection #0",
+  "description": "Forgboiz NFT price is 0.55 sols",
+  "symbol": "",
+  "seller_fee_basis_points": 1000,
+  "external_url": "https://frogboiz.com",
+  "image": "0.png",
+  "dna": "0c6475a49b3e8b57017ee3d575585b468a15c302",
+  "edition": 0,
+  "date": 1634897759496,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ],
+  "compiler": "Frogboiz Art Engine",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GaF8ExVMoG5Yd7onxFZe9JpKAL7S24msVD8VXTdw9FN7",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Frogboiz NFT",
+    "family": "Frogboiz"
+  }
+}
